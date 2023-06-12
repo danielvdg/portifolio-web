@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "http-localhost-9000-dashboard?id=portifolio-web&selectedTutorial=local",
+        "projectKey": "portifolio-web"
+    }
+}
