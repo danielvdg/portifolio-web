@@ -8,7 +8,7 @@
 
 ## Tíquetes
 
-> Insira os link's aqui Exemplo: IMED-40 ou hubspot
+> Insira os link's aqui 
 
 ## Risco do PR
 
